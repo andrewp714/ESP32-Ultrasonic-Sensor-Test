@@ -33,7 +33,7 @@ Hardware Design:
 
 
 Output:
-https://github.com/andrewp714/ESP32-Ultrasonic-Sensor-Test/blob/main/Terminal%20Screenshot.png?raw=true
+![image](https://github.com/user-attachments/assets/4695a00c-3171-458e-be0b-5142e08c2c5c)
 
 Challenges:
 1. "Cannot Open Source File" Error
