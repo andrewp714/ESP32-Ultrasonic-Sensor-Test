@@ -32,7 +32,7 @@ USB-to-serial connection for flashing and monitoring.
 Hardware Design:
 
 
-Output:
+Output:  
 ![image](https://github.com/user-attachments/assets/4695a00c-3171-458e-be0b-5142e08c2c5c)
 
 Challenges:
