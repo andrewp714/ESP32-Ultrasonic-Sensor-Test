@@ -29,8 +29,8 @@ HC-SR04 ultrasonic sensor.
 ESP-IDF v5.4.1 and VS Code with the ESP-IDF extension.
 USB-to-serial connection for flashing and monitoring.
 
-Hardware Design:
-
+Hardware Design: 
+![image](https://github.com/user-attachments/assets/0cfcc8ad-fd49-4d14-a024-f56938ddcf0d)
 
 Output:  
 ![image](https://github.com/user-attachments/assets/4695a00c-3171-458e-be0b-5142e08c2c5c)
